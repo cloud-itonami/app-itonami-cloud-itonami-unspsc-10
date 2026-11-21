@@ -1,4 +1,6 @@
 # cloud-itonami-unspsc-10
+Classification reference: UNSPSC® (United Nations Standard Products and Services Code), code 10. © United Nations Development Programme (UNDP). UNSPSC® is a registered trademark of UNDP. This app is not produced, reviewed or endorsed by UNDP.
+分類の参照: UNSPSC®（国連標準製品・サービス分類）のコード 10。© 国連開発計画（UNDP）。UNSPSC® は UNDP の登録商標です。日本語の名称は当方の訳です。この app は UNDP が作成・確認・推奨したものではありません。
 
 Open UNSPSC Blueprint (implemented actor) for **UNSPSC segment 10**:
 Live Plant and Animal Material and Accessories and Supplies.
